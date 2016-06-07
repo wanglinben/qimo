@@ -273,3 +273,19 @@ input{
    width: 100%;
    height: 100%;
 }
+
+.no-bg{
+    background: none;
+}
+
+.no-bor{
+    border-style: none;
+}
+
+.ic-p{
+    margin: 0 0 5px;
+}
+
+.nav-pad{
+    padding: 10px 0px 0px 0px;
+}
